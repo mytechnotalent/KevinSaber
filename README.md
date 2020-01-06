@@ -12,7 +12,7 @@ Click [HERE](https://youtu.be/KzZV7tTujTA) to see promotional video on YouTube.
 git clone https://github.com/mytechnotalent/KevinSaber.git
 ```
 
-## Run Application
+## Run Application (Oculus Rift)
 
 With the terminal window open make sure you cd or change directory and run app.
 
@@ -21,7 +21,14 @@ cd bin
 KevinSaber.exe
 ```
 
-This executable will work on the Oculus Rift.  Currently developing a Oculus Quest version.
+## Run Application (Oculus Quest)
+
+With the terminal window open make sure you cd or change directory and follow the directions [HERE](https://www.androidcentral.com/how-sideload-apps-oculus-quest) to side-load the app to your device.
+
+```bash
+cd bin-apk
+KevinSaber.apk
+```
 
 ## Contributing
 
