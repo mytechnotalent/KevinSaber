@@ -1,3 +1,5 @@
+[![Watch The Video](https://img.youtube.com/vi/KzZV7tTujTA/maxresdefault.jpg)](https://youtu.be/KzZV7tTujTA)
+
 # KevinSaber
 
 KevinSaber is a Oculus Rift and Oculus Quest game that is a BeatSaber clone where you strike the boxes as they fly past you in a fierce frenzy.  The pace of this game is fast and if you are looking to get your exercise on, this is your game!
